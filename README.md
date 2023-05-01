@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dibyenducse
-- 👀 I’m interested in JavaScript, Node.js, React.js, Vue.js
+- 👀 I’m interested in JavaScript, Node.js, React.js, Express.js
 - 🌱 I’m currently learning Javascript & Python
 - 💞️ I’m looking to collaborate on Vanila Javascript and React
 - 📫 How to reach me dibyendu.cse.ru@gmail.com
