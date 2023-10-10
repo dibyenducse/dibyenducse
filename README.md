@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dibyenducse
+- 👋 Hi, I’m @dibyendu from Dhaka, Bangladesh.
 - 👀 I’m interested in JavaScript, TypeScript, Next.js, Node.js, React.js, Express.js, MySQL, PostgreSQL, MongoDB
 - 🌱 I’m currently working on Full Stack Web Application development
 - 💞️ I’m looking to collaborate on Vanilla Javascript, React, Express, and Node
