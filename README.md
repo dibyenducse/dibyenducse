@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dibyendu from Dhaka, Bangladesh.
 ### Skills
-- **Front-end:** <span style="color: #3498db;">HTML</span>, <span style="color: #2ecc71;">CSS</span>, <span style="color: #f39c12;">JavaScript</span>, <span style="color: #e74c3c;">React</span>
-- **Back-end:** <span style="color: #9b59b6;">Node.js</span>, <span style="color: #2c3e50;">Express</span>, <span style="color: #27ae60;">MongoDB</span>
-- **Database:** <span style="color: #f1c40f;">SQL</span>, <span style="color: #e67e22;">NoSQL</span>
+- **Front-end:** <font color="#3498db">HTML</font>, <font color="#2ecc71">CSS</font>, <font color="#f39c12">JavaScript</font>, <font color="#e74c3c">React</font>
+- **Back-end:** <font color="#9b59b6">Node.js</font>, <font color="#2c3e50">Express</font>, <font color="#27ae60">MongoDB</font>
+- **Database:** <font color="#f1c40f">SQL</font>, <font color="#e67e22">NoSQL</font>
 
 - 👀 I’m interested in JavaScript, TypeScript, Next.js, Node.js, React.js, Express.js, MySQL, PostgreSQL, MongoDB
 - 🌱 I’m currently working on Full Stack Web Application development
